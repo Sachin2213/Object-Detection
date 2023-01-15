@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bus</folder>
+	<filename>bus 364.jpg</filename>
+	<path>C:\Users\Merida\Desktop\Bus\bus 364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1668</xmin>
+			<ymin>1159</ymin>
+			<xmax>3011</xmax>
+			<ymax>2240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1434</xmin>
+			<ymin>1812</ymin>
+			<xmax>1630</xmax>
+			<ymax>2069</ymax>
+		</bndbox>
+	</object>
+</annotation>

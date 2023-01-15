@@ -1,0 +1,14 @@
+Custom_dataset
+Labelling_model
+Split_dataset
+Temp_SSD_image_and_annotation_folder
+Custom_Training_SSD/Tensorflow/workspace/annotations
+Custom_Training_SSD/Tensorflow/workspace/images
+Custom_Training_SSD/Tensorflow/workspace/pre-trained-models
+Custom_Training_YOLO/yolov5/data/images
+Custom_Training_YOLO/yolov5/runs/train/exp
+Custom_Training_YOLO/yolov5/runs/train/exp1
+FasterRCNN_SSD/model/research/object-detection/test-images
+.ipynb_checkpoints/
+*.zip
+abc.docx

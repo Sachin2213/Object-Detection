@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bicycle (252).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Bicycle\images\bicycle (252).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>71</ymin>
+			<xmax>945</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

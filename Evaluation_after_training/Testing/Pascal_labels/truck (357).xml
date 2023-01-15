@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Truck</folder>
+	<filename>truck (357).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Truck\truck (357).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>866</xmin>
+			<ymin>884</ymin>
+			<xmax>3412</xmax>
+			<ymax>2260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4216</xmin>
+			<ymin>1224</ymin>
+			<xmax>4608</xmax>
+			<ymax>1693</ymax>
+		</bndbox>
+	</object>
+</annotation>

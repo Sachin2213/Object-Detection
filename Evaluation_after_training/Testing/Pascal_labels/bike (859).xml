@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bike (859).jpg</filename>
+	<path>D:\pixel\Bike\images\bike (859).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>368</ymin>
+			<xmax>702</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>444</ymin>
+			<xmax>91</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>

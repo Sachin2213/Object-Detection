@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bus</folder>
+	<filename>bus 38.jpg</filename>
+	<path>C:\Users\Merida\Desktop\Bus\bus 38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>easybike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>419</ymin>
+			<xmax>918</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>165</ymin>
+			<xmax>730</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

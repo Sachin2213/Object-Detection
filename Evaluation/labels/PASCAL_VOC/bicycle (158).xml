@@ -1,0 +1,46 @@
+<annotation>
+  <folder>Bicycle</folder>
+  <filename>bicycle (158).jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>960</width>
+    <height>541</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bicycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>275</xmin>
+      <ymin>164</ymin>
+      <xmax>535</xmax>
+      <ymax>528</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>611</xmin>
+      <ymin>159</ymin>
+      <xmax>742</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rickshaw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>926</xmin>
+      <ymin>165</ymin>
+      <xmax>958</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+  </object>
+</annotation>

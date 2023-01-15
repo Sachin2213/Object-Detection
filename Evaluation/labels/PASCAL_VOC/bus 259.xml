@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bus</folder>
+	<filename>bus 259.jpg</filename>
+	<path>/home/student/Desktop/Bus/bus 259.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3566</xmin>
+			<ymin>1455</ymin>
+			<xmax>4160</xmax>
+			<ymax>2424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>455</ymin>
+			<xmax>3602</xmax>
+			<ymax>2710</ymax>
+		</bndbox>
+	</object>
+</annotation>

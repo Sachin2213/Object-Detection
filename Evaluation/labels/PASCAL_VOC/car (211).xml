@@ -1,0 +1,22 @@
+<annotation>
+  <folder>Car</folder>
+  <filename>car (211).jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1000</width>
+    <height>570</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>86</ymin>
+      <xmax>877</xmax>
+      <ymax>459</ymax>
+    </bndbox>
+  </object>
+</annotation>

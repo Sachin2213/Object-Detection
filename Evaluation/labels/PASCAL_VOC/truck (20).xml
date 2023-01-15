@@ -1,0 +1,22 @@
+<annotation>
+  <folder>Truck</folder>
+  <filename>truck (20).jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1131</width>
+    <height>421</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>25</ymin>
+      <xmax>1115</xmax>
+      <ymax>403</ymax>
+    </bndbox>
+  </object>
+</annotation>

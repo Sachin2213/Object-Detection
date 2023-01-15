@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>car (510).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Car\images\car (510).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>147</ymin>
+			<xmax>388</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+  <folder>Truck</folder>
+  <filename>truck (255).jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>4608</width>
+    <height>2592</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1346</xmin>
+      <ymin>803</ymin>
+      <xmax>3375</xmax>
+      <ymax>2310</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>31</ymin>
+      <xmax>1327</xmax>
+      <ymax>2322</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>van</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2740</xmin>
+      <ymin>1949</ymin>
+      <xmax>3842</xmax>
+      <ymax>2590</ymax>
+    </bndbox>
+  </object>
+</annotation>

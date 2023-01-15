@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bus</folder>
+	<filename>bus 146.jpg</filename>
+	<path>/home/student/Desktop/Bus/bus 146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>868</xmin>
+			<ymin>381</ymin>
+			<xmax>960</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>263</ymin>
+			<xmax>883</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

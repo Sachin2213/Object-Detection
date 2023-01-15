@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bus</folder>
+	<filename>bus 315.jpg</filename>
+	<path>C:\Users\Merida\Desktop\Bus\bus 315.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>278</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>6</ymin>
+			<xmax>276</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

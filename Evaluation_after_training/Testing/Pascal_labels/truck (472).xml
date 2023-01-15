@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Truck</folder>
+	<filename>truck (472).jpg</filename>
+	<path>C:\Users\Merida\Desktop\Truck\truck (472).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1713</xmin>
+			<ymin>1122</ymin>
+			<xmax>4386</xmax>
+			<ymax>2821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>648</ymin>
+			<xmax>533</xmax>
+			<ymax>2317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4338</xmin>
+			<ymin>2085</ymin>
+			<xmax>4507</xmax>
+			<ymax>2269</ymax>
+		</bndbox>
+	</object>
+</annotation>

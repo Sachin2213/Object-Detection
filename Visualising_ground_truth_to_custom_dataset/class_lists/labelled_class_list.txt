@@ -1,0 +1,6 @@
+Bicycle
+Bike
+Bus
+Car
+Cng
+Truck

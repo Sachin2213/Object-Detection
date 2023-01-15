@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>truck (400).jpg</filename>
+	<path>C:\Users\Merida\Documents\GitHub\Truck\images\truck (400).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>249</ymin>
+			<xmax>1931</xmax>
+			<ymax>1147</ymax>
+		</bndbox>
+	</object>
+</annotation>
